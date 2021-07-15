@@ -15,4 +15,7 @@ Made this project for my 4rth semester course along with my teammate.
 ![image](https://user-images.githubusercontent.com/68320786/125790758-37078a56-22d4-4421-9cc5-638ee7e676d3.png)
 
 Details are stored in a .csv file for future reference.
+
 ![image](https://user-images.githubusercontent.com/68320786/125790836-309a5286-f281-4908-8f65-ddbfb61a2b4a.png)
+
+![image](https://user-images.githubusercontent.com/68320786/125790983-ac9a63fd-2455-41cc-a386-97d82b8fedc8.png)
